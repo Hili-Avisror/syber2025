@@ -1,2 +1,2 @@
-# syber2025
+# cyber2025
 project in python
